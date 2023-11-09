@@ -61,6 +61,8 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="26" alt="nodejs logo"  />
   <img width="5" />
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" height="26" alt="reactjs logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="26" alt="csharp logo"  />
 </div>
 
