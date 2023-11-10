@@ -5,10 +5,6 @@
 
 ###
 
-<p align="left">  </p>
-
-###
-
 <h2 align="left">🎯INTERMEDIÁRIO/AVANÇADO</h2>
 
 ###
