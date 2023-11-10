@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Conhecimento Intermediário/Avançado</h2>
+<h2 align="left">🎯INTERMEDIÁRIO/AVANÇADO</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">Atualmente Estou Estudando</h2>
+<h2 align="left">📄ESTUDANDO</h2>
 
 ###
 
