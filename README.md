@@ -1,21 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=B6BDD0&random=false&width=435&lines=Ol%C3%A1!+Sou+o+Raul!+" alt="Typing SVG" /></a>
 
 ###
-<h4 align="left">Sou um desenvolvedor web estudioso e dedicado, sempre ansioso para aprender novas tecnologias. Embora eu esteja no início da minha carreira, tenho uma sólida compreensão das principais tecnologias front-end, HTML, CSS e JavaScript.  Além do mais, estou familiarizado com frameworks populares como React.js, Tailwind e Bootstrap</h4>
-
-###
-
-<div align="left">
-  <a href="mailto:luaarpessoal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/raulstsouza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/lxarst" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+<h2 align="left">Sou um desenvolvedor web estudioso e dedicado, sempre ansioso para aprender novas tecnologias. Embora eu esteja no início da minha carreira, tenho uma sólida compreensão das principais tecnologias front-end, HTML, CSS e JavaScript.  Além do mais, estou familiarizado com frameworks populares como React.js, Tailwind e Bootstrap</h2>
 
 ###
 
