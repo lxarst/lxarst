@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=B6BDD0&random=false&width=435&lines=Ol%C3%A1!+Sou+o+Raul!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=B6BDD0&random=false&width=435&lines=Ol%C3%A1!+Sou+o+Raul!+" alt="Typing SVG" /><h1/></a>
 
 ###
 <p align="left">Sou um desenvolvedor web estudioso e dedicado, sempre ansioso para aprender novas tecnologias. Embora eu esteja no início da minha carreira, tenho uma sólida compreensão das principais tecnologias front-end, HTML, CSS e JavaScript.  Além do mais, estou familiarizado com frameworks populares como React.js, Tailwind e Bootstrap</p>
