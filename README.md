@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">🎯INTERMEDIÁRIO/AVANÇADO</h2>
+<h3 align="left">🎯INTERMEDIÁRIO/AVANÇADO</h3>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">📄ESTUDANDO</h2>
+<h3 align="left">📄ESTUDANDO</h3>
 
 ###
 
