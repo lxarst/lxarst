@@ -4,7 +4,6 @@
 
 <h2 align="left">INTERMEDIÁRIO/AVANÇADO</h2>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="26" alt="git logo"  />
